@@ -2,3 +2,6 @@
 
  def (a,b);
   d= a+b:
+
+  def (a,b);
+   d = a-b:
